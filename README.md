@@ -1,5 +1,3 @@
-# Calculator
-A java mini project
 CALCULATOR APPLICATION
 Done By: Nilanjana T (23011101088), R. Sai Sreya (23011101105) and Sanjana S (23011101130)
 
